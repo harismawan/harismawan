@@ -154,17 +154,17 @@ Building production-grade systems including **POS with multi-outlet management**
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=harismawan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3584E4&icon_color=3584E4&text_color=C9D1D9" alt="GitHub Stats" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harismawan&theme=tokyonight" alt="GitHub Stats" height="170"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harismawan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3584E4&text_color=C9D1D9&langs_count=8" alt="Top Languages" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harismawan&theme=tokyonight" alt="Top Languages" height="170"/>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harismawan&theme=tokyonight&hide_border=true&background=0D1117&ring=3584E4&fire=3584E4&currStreakLabel=3584E4" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=harismawan&theme=tokyonight&hide_border=true&background=0D1117&ring=3584E4&fire=3584E4&currStreakLabel=3584E4" alt="GitHub Streak"/>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harismawan&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3584E4&line=3584E4&point=FFFFFF" alt="Contribution Graph" width="95%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harismawan&theme=tokyonight" alt="Contribution Graph" width="95%"/>
 
 </div>
 
